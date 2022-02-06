@@ -4,7 +4,8 @@
   "description": "webpack の 個人学習用",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'test is nothing yet...'"
+    "test": "echo 'test is nothing yet...'",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
