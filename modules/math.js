@@ -4,6 +4,6 @@
  * @param {int} number2 - 加数
  * @returns {int} - 和
  */
-const add = (number1, number2) => {
+export const add = (number1, number2) => {
     return number1 + number2;
 };
