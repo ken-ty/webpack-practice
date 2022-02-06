@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ken-ty/webpack-practice/issues"
   },
-  "homepage": "https://github.com/ken-ty/webpack-practice#readme"
+  "homepage": "https://github.com/ken-ty/webpack-practice#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
 }
