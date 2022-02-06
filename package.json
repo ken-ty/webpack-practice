@@ -1,0 +1,22 @@
+{
+  "name": "webpack-practice",
+  "version": "0.0.1",
+  "description": "webpack の 個人学習用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'test is nothing yet...'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ken-ty/webpack-practice.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "ken tokura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ken-ty/webpack-practice/issues"
+  },
+  "homepage": "https://github.com/ken-ty/webpack-practice#readme"
+}
